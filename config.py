@@ -1,0 +1,5 @@
+HOST = 'localhost'
+PORT = '8081'
+HTTPORT='8080'
+
+DEVICEID='CAM-1'
